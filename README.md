@@ -101,7 +101,10 @@ https://github.com/Keitaoba828/unlimited/blob/master/freshman.md
 # アンリミ特有のルール
 
 <h2>1． 欠席、遅刻、途中退席について</h2>
-欠席・遅刻・途中退席の場合は事前に 共通/全体のLINEグループ に欠席連絡を入れ、オンラインにて参加することとする。
+
+欠席・遅刻・途中退席の場合は事前に専用フォームを提出し、オンラインにて参加することとする。
+
+→https://forms.gle/VWZSaDkrAa7zkC3n8
 
 <h2>2． テクノロジー環境について</h2>
 
